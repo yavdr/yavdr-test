@@ -1,5 +1,5 @@
 Source: yavdr-test
-Section: unknown
+Section: misc
 Priority: extra
 Maintainer: Marco Scholl <develop@marco-scholl.de>
 Build-Depends: debhelper (>= 7.0.50~)
