@@ -1,0 +1,10 @@
+Package: yavdr-test
+Version: 0.1
+Architecture: all
+Maintainer: Marco Scholl <develop@marco-scholl.de>
+Installed-Size: 36
+Section: unknown
+Priority: extra
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
